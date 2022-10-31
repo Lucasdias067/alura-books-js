@@ -18,6 +18,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O AluraBooks é uma página de livros, nela vemos vários livros sobre front-end, back-end e banco de dados. Todas as informações são buscadas dentro de uma API que me retorna os dados que são mostradas na página. 
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
