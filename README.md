@@ -17,4 +17,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O AluraBooks é uma página de livros, nela vemos vários livros sobre front-end, back-end e banco de dados. Todas as informações são buscadas dentro de uma API que me retorna os dados que são mostradas na página. 
-
