@@ -148,3 +148,72 @@ body {
   font-weight: 500;
   line-height: 24px;
 }
+
+@media (max-width: 480px) {
+  .wrap {
+    width: auto;
+  }
+  
+  .header {
+    text-align: center;
+    width: auto;
+  }
+  
+  .banner {
+    background-size: contain;
+    width: 100%;
+    height: 150px;
+  }
+  
+  .nav {
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+  }
+
+  .btn { 
+    width: 200px;
+    font-size: 0.8rem;
+    margin: 1px;
+  }
+  
+  .livros {
+    margin-top: 115px;
+    justify-content: center;
+  }
+}
+
+@media  (min-width: 481px) and  (max-width: 1024px) {
+  .wrap {
+    width: auto;
+  }
+  
+  .header {
+    text-align: center;
+    width: auto;
+  }
+  
+  .banner {
+    background-size: contain;
+    width: auto;
+  }
+  
+  .nav {
+    margin-top: -45px;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+  }
+
+  .btn { 
+    width: 200px;
+    font-size: 0.8rem;
+    margin: 1px;
+  }
+  
+  .livros {
+    margin-top: 115px;
+    justify-content: center;
+  }
+}
+
